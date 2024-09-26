@@ -1,0 +1,6 @@
+# Trabalho de casa 2
+O programa organiza-se em dois modos: o computador escolhe num número e o utilizador tem que o adivinhar ou o utilizador pensa num número e o computador tem que o adivinhar. Os números podem ir desde 0 (inferior) até 100 (superior). 
+
+No primeiro modo criado, o computador importa um número random. O utilizador introduz um número e se este for maior que o número a adivinhar, o programa indica que o número a adivinhar é menor. Se o número introduzido for menor, o programa indica-nos que o número a adivinhar é maior. O utilizador após obter a resposta volta a introduzir outro número, repetindo-se o processo até o número ser adivinhado. Quando isto acontece, o programa indica quantas tentativas o utilizador realizou.
+
+No segundo modo criado, o utilizador pensa num número. Para a primeira tentativa o computador utiliza a média entre o maior número e o menor número que podem ser escolhidos. O utilizador indica se o número que pensou é maior ou menor que o número sugerido e o computador volta a sugerir outro. Isto acontece sucessivas vezes até que o computador sugere o número correto e o utilizador indica que este acertou. Quando isto acontece, o programa indica quantas tentativas o utilizador realizou.
